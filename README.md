@@ -1,2 +1,3 @@
 # python
-AI, Machine Learning coding methodologies and applications expert  with python
+Artificial Intelligence (AI) & Machine Learning (ML) using Python programming like an expert
+Coding techniques and methodologies and applications
